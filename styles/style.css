@@ -1,0 +1,8 @@
+.header {
+    height: 300px;
+    border: 1px solid red;
+    background: url('./student-plan-landing-2x.png');
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+
+}
